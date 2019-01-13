@@ -45,3 +45,7 @@ cjson_transplant\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semp
 cjson_transplant\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
 cjson_transplant\main.o: ../Inc/usart.h
 cjson_transplant\main.o: ../Inc/gpio.h
+cjson_transplant\main.o: ..\COM\test.h
+cjson_transplant\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+cjson_transplant\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+cjson_transplant\main.o: ..\COM\cJSON.h

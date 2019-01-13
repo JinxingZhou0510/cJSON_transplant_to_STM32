@@ -31,6 +31,8 @@
 "cjson_transplant\usart.o"
 "cjson_transplant\stm32f4xx_it.o"
 "cjson_transplant\gpio.o"
+"cjson_transplant\cjson.o"
+"cjson_transplant\test.o"
 --library_type=microlib --strict --scatter "cjson_transplant\cjson_transplant.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
